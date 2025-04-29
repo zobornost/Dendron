@@ -27,7 +27,7 @@ workspace:
             sync: sync
             remote:
                 type: git
-                url: git@github.com:zobornost/Dendron.git
+                url: https://github.com/zobornost/Dendron.git
             selfContained: true
             name: Notes
     journal:
