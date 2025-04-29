@@ -2,7 +2,7 @@
 id: 45b60pwf2qw53ldx68m2e8p
 title: Heroic
 desc: ''
-updated: 1745963208574
+updated: 1745963824234
 created: 1745922403401
 ---
 
@@ -19,7 +19,6 @@ You have six abilities that are used to make moves: Strength, Dexterity, Intelli
 **Level** rates your achievements as a hero. It starts at 1 for a new character, and increases as you gain experience.
 
 **XP** is a measure of your adventuring experience. You gain xp by completing sessions, defeating powerful foes of higher level than you, retreiving valuable treasure, and performing certain moves. Once you have enough your level increases.
-
 
 | Level | XP  |
 |-------|-----|
@@ -39,8 +38,8 @@ You have six abilities that are used to make moves: Strength, Dexterity, Intelli
 | 14    | 70  |
 | 15    | 80  |
 | 16    | 100 |
-| 17    | 120 |
-| 18    | 140 |
+| 17    | 125 |
+| 18    | 150 |
 
 **Speed** measures how far you can run, in units of five feet. It is equal to 6 plus your Dexterity.
 
@@ -52,7 +51,7 @@ The DM has moves to make too, but they're not listed here.
 
 ## Basic Moves
 
-When you attempt a _feat of strength_ roll 1D20 and add your STR.
+When you attempt a to lift, push, pull, or carry something massive, to break something strong, or to otherwise make some show of foucre, roll 1D20 and add your STR.
 
 | Roll  | Result                                             |
 |-------|----------------------------------------------------|
@@ -64,7 +63,7 @@ When you attempt a _feat of strength_ roll 1D20 and add your STR.
 |       | - Fail.                                            |
 | 15+   | Succeed.                                           |
 
-When you _duck and dodge_ to try to evade danger roll 1D20 and add your DEX.
+When you to try to evade danger by ducking, docking, rolling, balancing, or otherwise moving quickly or carefully roll 1D20 and add your DEX.
 
 | Roll  | Result                                     |
 |-------|--------------------------------------------|
@@ -76,7 +75,7 @@ When you _duck and dodge_ to try to evade danger roll 1D20 and add your DEX.
 |       | - Fail.                                    |
 | 15+   | Succeed.                                    |
 
-When you try to _read the room_ roll 1D20 and add your PER.
+When you try to read the room, investigate a location, or interpret some complex or charged situation, roll 1D20 and add your PER.
 
 | Roll  | Result                                            |
 |-------|---------------------------------------------------|
@@ -91,7 +90,7 @@ When you try to _read the room_ roll 1D20 and add your PER.
 * What should I be on the lookout for?
 * What am I missing?
 
-When you try to _read a person_ roll 1D20 and add your Perception.
+When you try to get a read on someone, or discern their motives, intentions, or desires, roll 1D20 and add your Perception.
 
 | Roll  | Result                                            |
 |-------|---------------------------------------------------|
@@ -106,7 +105,7 @@ When you try to _read a person_ roll 1D20 and add your Perception.
 * How could I get them to do what I want?
 * How are they vulnerable to me?
 
-When you try to _keep your senses_ roll 1D20 and add your Willpower:
+When you try to keep your cool in frightening or confusing situations, or to resist magic effects that affect your mind or senses, roll 1D20 and add your Willpower:
 
 | Roll  | Result                                         |
 |-------|------------------------------------------------|
@@ -118,7 +117,7 @@ When you try to _keep your senses_ roll 1D20 and add your Willpower:
 |       | - Fail.                                        |
 | 15+   | Succeed.                                       |
 
-When you try to _manipulate_, persuade, or deceive someone, roll 1D20 and add your Charisma:
+When you try to manipulate, persuade, or deceive a group or an individual, roll 1D20 and add your Charisma:
 
 | Roll  | Result                                 |
 |-------|----------------------------------------|
