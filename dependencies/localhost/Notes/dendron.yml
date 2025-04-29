@@ -24,10 +24,6 @@ workspace:
     vaults:
         -
             fsPath: .
-            sync: sync
-            remote:
-                type: git
-                url: git@github.com:zobornost/Dendron.git
             selfContained: true
             name: Notes
     journal:
@@ -70,12 +66,13 @@ workspace:
     enableRemoteVaultInit: true
     enableUserTags: true
     enableHashTags: true
-    workspaceVaultSyncMode: sync
+    workspaceVaultSyncMode: noCommit
     enableAutoFoldFrontmatter: false
     enableEditorDecorations: true
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableFullHierarchyNoteTitle: false
+    enablePersistentHistory: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -109,8 +106,3 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - Notes
-            - Dendron

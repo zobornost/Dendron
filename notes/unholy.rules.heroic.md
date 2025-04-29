@@ -2,7 +2,7 @@
 id: 45b60pwf2qw53ldx68m2e8p
 title: Heroic
 desc: ''
-updated: 1745961872498
+updated: 1745962739590
 created: 1745922403401
 ---
 
@@ -12,13 +12,13 @@ You have six abilities that are used to make moves: Strength, Dexterity, Intelli
 
 # Attributes
 
-Your hit points count the number of telling blows you can take in combat before passing out (or worse). You start with hit points equal to your level, plus your Strength, plus your Armour.
+**Hit points** count the number of telling blows you can take in combat before passing out (or worse). You start with hit points equal to your level, plus your Strength, plus your Armour.
 
-The armour you wear helps you absorb damage in combat, and its value is simply added to your hit points (or removed if you take it off).
+**Armour** helps you absorb damage in combat, and its value is simply added to your hit points (or removed if you take it off).
 
-Your level is a measure of your achievements as a hero. It starts at 1 for a new character, and increases as you gain experience.
+**Level** rates your achievements as a hero. It starts at 1 for a new character, and increases as you gain experience.
 
-Your xp is a measure of your adventuring experience. You gain xp by completing sessions, defeating powerful foes of higher level than you, retreiving valuable treasure, and performing certain moves. Once you have enough your level increases.
+**XP** is a measure of your adventuring experience. You gain xp by completing sessions, defeating powerful foes of higher level than you, retreiving valuable treasure, and performing certain moves. Once you have enough your level increases.
 
 | Level | XP  |
 |-------|-----|
@@ -41,7 +41,7 @@ Your xp is a measure of your adventuring experience. You gain xp by completing s
 | 17    | 120 |
 | 18    | 140 |
 
-Your speed measures how far you can run, in units of five feet. It is equal to 6 plus your Dexterity.
+**Speed** measures how far you can run, in units of five feet. It is equal to 6 plus your Dexterity.
 
 # Moves
 
