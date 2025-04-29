@@ -2,7 +2,7 @@
 id: 45b60pwf2qw53ldx68m2e8p
 title: Heroic
 desc: ''
-updated: 1745962739590
+updated: 1745963208574
 created: 1745922403401
 ---
 
@@ -19,6 +19,7 @@ You have six abilities that are used to make moves: Strength, Dexterity, Intelli
 **Level** rates your achievements as a hero. It starts at 1 for a new character, and increases as you gain experience.
 
 **XP** is a measure of your adventuring experience. You gain xp by completing sessions, defeating powerful foes of higher level than you, retreiving valuable treasure, and performing certain moves. Once you have enough your level increases.
+
 
 | Level | XP  |
 |-------|-----|
