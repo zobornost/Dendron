@@ -1,8 +1,8 @@
 ---
 id: 45b60pwf2qw53ldx68m2e8p
 title: Heroic
-desc: ''
-updated: 1746033926548
+desc: 
+updated: 1746046496
 created: 1745922403401
 ---
 
@@ -47,9 +47,9 @@ You have six abilities that are used to make moves: Strength, Dexterity, Intelli
 | 17    | 125 |
 | 18    | 150 |
 
-## Actions
+## Play
 
-In normal play the DM will describe a scene, you will tell the DM what actions you take, and the DM will narrate the results. Some actions, like talking, walking, and running, have no specific rules; they just play out as you would expect. Some actions, particularly actions that involve some element of risk, trigger moves. When a move is triggered, resolve its rules as described and then return to normal play.
+In normal play the DM will describe a scene, you will tell the DM what you do, and the DM will tell you how the world responds. Many things you do, like talking, walking, and running, have no specific rules; they just play out as you would expect. Some things you do, particularly things that involve some element of risk, trigger moves. When a move is triggered, resolve its rules as described and then return to normal play.
 
 ## Moves
 
