@@ -1,59 +1,10 @@
 ---
-id: 45b60pwf2qw53ldx68m2e8p
-title: Heroic
+id: 19gznx7tzy7b13ok605rvw8
+title: Moves
 desc: ''
-updated: 1746033926548
-created: 1745922403401
+updated: 1746193514089
+created: 1746193511813
 ---
-
-# Unholy Heroic
-
-## Abilities Scores & Ability Checks
-
-You have six abilities that are used to make moves: Strength, Dexterity, Intelligence, Wisdom, Charisma, and Willpower each scored from -5 to +5. Ability checks are made by rolling 1D20 and adding the appropriate Ability Scores. Ability checks are used to to test your skill, with higher rolls meaning better results.
-
-## Other Attributes
-
-### Hit Points
-
-**Hit points** track your capacity to fight and push on through physical hardship.
-
-**Armour** helps you absorb damage in combat, and its value is simply added to your hit points (or removed if you take it off).
-
-**Speed** measures how far you can run, in units of five feet. It is equal to 6 plus your Dexterity.
-
-**Level** rates your achievements as a hero. It starts at 1 for a new character, and increases as you gain experience.
-
-**XP** is a measure of your adventuring experience. You gain xp by completing sessions, defeating powerful foes of higher level than you, retreiving valuable treasure, and performing certain moves. Once you have enough your level increases.
-
-| Level | XP  |
-|-------|-----|
-| 1     | 0   |
-| 2     | 3   |
-| 3     | 6   |
-| 4     | 9   |
-| 5     | 12  |
-| 6     | 15  |
-| 7     | 20  |
-| 8     | 25  |
-| 9     | 30  |
-| 10    | 35  |
-| 11    | 40  |
-| 12    | 50  |
-| 13    | 60  |
-| 14    | 70  |
-| 15    | 80  |
-| 16    | 100 |
-| 17    | 125 |
-| 18    | 150 |
-
-## Actions
-
-In normal play the DM will describe a scene, you will tell the DM what actions you take, and the DM will narrate the results. Some actions, like talking, walking, and running, have no specific rules; they just play out as you would expect. Some actions, particularly actions that involve some element of risk, trigger moves. When a move is triggered, resolve its rules as described and then return to normal play.
-
-## Moves
-
-Moves kick in in response to certain actions. To make a move you have to do the thing it describes; and if you do the thing a move describes, then you have to make the move. In other words, you have to do it to do it.
 
 ### Acrobatics
 
@@ -78,7 +29,7 @@ When you try to control the behaviour of a beast make a Wisdom check:
 | 1-9   | Fail.                                                        |
 | 10-14 | Choose:                                                      |
 |       | - Succeed, but it takes longer than you hoped.               |
-|       | - Succeed, but but anger the beast.                          |
+|       | - Succeed, but ???.                                          |
 |       | - Succeed, only after giving it something; food, water, etc. |
 |       | - Fail.                                                      |
 | 15+   | Succeed.                                                     |
@@ -118,33 +69,31 @@ When you attempt to lift, push, pull, or carry something massive, to break somet
 
 When you make an attack with a melee weapon, make a Strength check:
 
-| Roll   | Result                            |
-|--------|-----------------------------------|
-| 1-9    | Fail; take a hit.                 |
-| 10-14  | Choose:                           |
-|        | - Hit, but take damage too.       |
-|        | - Hit, but you are pushed back.   |
-|        | - Hit, but you are knocked prone. |
-|        | - Fail.                           |
-| 15+    | Hit.                              |
-| Nat 20 | Critical hit.                     |
+| Roll      | Result                            |
+|-----------|-----------------------------------|
+| 1-9       | Fail; take a hit.                 |
+| 10-14     | Choose:                           |
+|           | - Hit, but take damage too.       |
+|           | - Hit, but you are pushed back.   |
+|           | - Hit, but you are knocked prone. |
+|           | - Fail.                           |
+| 15+       | Hit.                              |
+| Double 10 | Critical hit.                     |
 
 When you make an attack with a ranged weapon, make a Dexterity check:
 
-| Roll   | Result                               |
-|--------|--------------------------------------|
-| 1-9    | Miss.                                |
-| 10-14  | Choose:                              |
-|        | - Hit, but its the wrong target.     |
-|        | - Hit, but expose yoursef to danger. |
-|        | - Hit, but run out of ammunition.    |
-|        | - Fail.                              |
-| 15+    | Hit.                                 |
-| Nat 20 | Critical hit.                        |
+| Roll      | Result                               |
+|-----------|--------------------------------------|
+| 1-9       | Miss.                                |
+| 10-14     | Choose:                              |
+|           | - Hit, but its the wrong target.     |
+|           | - Hit, but expose yoursef to danger. |
+|           | - Hit, but run out of ammunition.    |
+|           | - Fail.                              |
+| 15+       | Hit.                                 |
+| Double 10 | Critical hit.                        |
 
-On a hit, roll the damage dice for your attack; your target loses hat many hit points.
-
-On a critical hit, roll the damage dice twice.
+See Hits & Healing later for more info.
 
 When you attack an unsuspecting target without warning ask the DM if you could miss. If so choose an appropriate combat move. If not they automatically take a critical hit.
 
@@ -208,7 +157,7 @@ When you to try to evade danger by ducking, dodging, or rolling make a Dexterity
 |       | - Fail.                                    |
 | 15+   | Succeed.                                   |
 
-### Disengage/Escape
+### Escape
 
 When you try to escape from a grapple or disengage from combat roll 1D20 and add your Dexterity:
 
@@ -221,6 +170,20 @@ When you try to escape from a grapple or disengage from combat roll 1D20 and add
 |        | - Succeed, but expose someone else to danger.   |
 |        | - Fail.                                         |
 | 15+    | Succeed.                                        |
+
+### Focus
+
+When you focus your mind to resist fear, confusion, or magic effects that affect your mind or senses, make a Willpower check:
+
+| Roll  | Result                                         |
+|-------|------------------------------------------------|
+| 1-9   | Fail.                                          |
+| 10-14 | Choose:                                        |
+|       | - Succeed, but lose your grip for a moment.    |
+|       | - Succeed, but reveal something you shouldn't. |
+|       | - Succeed, but react badly.                    |
+|       | - Fail.                                        |
+| 15+   | Succeed.                                       |
 
 ### Grab
 
@@ -238,17 +201,7 @@ When you try to grab or grapple something or someone, make a Strength check:
 
 ### Help
 
-When you help an ally make a ??? check:
-
-| Roll  | Result              |
-|-------|---------------------|
-| 1-9   | Fail.               |
-| 10-14 | Choose:             |
-|       | - Succeed, but ???. |
-|       | - Succeed, but ???. |
-|       | - Succeed, but ???. |
-|       | - Fail.             |
-| 15+   | Succeed.            |
+When you help an ally you give them +1 against their next check.
 
 ### History
 
@@ -312,29 +265,29 @@ When you take a while (days or longer) to thoroughly investigate a specific item
 
 When you cast a spell, or use a magic item, make a Willpower check:
 
-| Roll  | Result              |
-|-------|---------------------|
-| 1-9   | Fail.               |
-| 10-14 | Choose:             |
-|       | - Succeed, but ???. |
-|       | - Succeed, but ???. |
-|       | - Succeed, but ???. |
-|       | - Fail.             |
-| 15+   | Succeed.            |
+| Roll  | Result                      |
+|-------|-----------------------------|
+| 1-9   | Fail.                       |
+| 10-14 | Choose:                     |
+|       | - Succeed, but take damage. |
+|       | - Succeed, but ???.         |
+|       | - Succeed, but ???.         |
+|       | - Fail.                     |
+| 15+   | Succeed.                    |
 
 ### Medicine
 
 When you try to treat an illness or injury, make a Wisdom check:
 
-| Roll  | Result                                                                      |
-|-------|-----------------------------------------------------------------------------|
-| 1-9   | Fail.                                                                       |
-| 10-14 | Choose:                                                                     |
-|       | - Succeed, but it takes longer than you hoped.                              |
-|       | - Succeed, but it only with the right supplies (the DM will tell you what). |
-|       | - Succeed, but but only in stopping it getting worse.                       |
-|       | - Fail.                                                                     |
-| 15+   | Succeed.                                                                    |
+| Roll  | Result                                                                   |
+|-------|--------------------------------------------------------------------------|
+| 1-9   | Fail.                                                                    |
+| 10-14 | Choose:                                                                  |
+|       | - Succeed, but it takes longer than you hoped.                           |
+|       | - Succeed, but only with the right supplies (the DM will tell you what). |
+|       | - Succeed, but only in stopping it getting worse.                        |
+|       | - Fail.                                                                  |
+| 15+   | Succeed.                                                                 |
 
 ### Nature
 
@@ -367,7 +320,7 @@ When you try to read the room, or interpret a charged situation, make a Wisdom c
 * What is most valuable to me?
 * What should I be on the lookout for?
 * What is not as it appears?
-* What is my safest way out?
+* What is my best opportunity for escape?
 * What is my safest path forward?
 
 ### Performance
@@ -429,20 +382,6 @@ When you call upon your knowledge of the divine to better understand a place or 
 * How is it connected to my own faith?
 * Why was it forsaken?
 
-### Resistance
-
-When you resist fear, confusion, or magic effects that affect your mind or senses, make a Willpower check:
-
-| Roll  | Result                                         |
-|-------|------------------------------------------------|
-| 1-9   | Fail.                                          |
-| 10-14 | Choose:                                        |
-|       | - Succeed, but lose your grip for a moment.    |
-|       | - Succeed, but reveal something you shouldn't. |
-|       | - Succeed, but react badly.                    |
-|       | - Fail.                                        |
-| 15+   | Succeed.                                       |
-
 ### Sleight of Hand
 
 When you try to quietly steal something, or surreptitiously pick a pocket or lock, make a Dexterity check:
@@ -488,17 +427,3 @@ When you try to survive in the wild, make a Wisdom check:
 ### Utilize
 
 When you use a non-magical object, you just do it, unless it has some special rules...
-
-## Hit Points, Damage, and Healing
-
-Hit points are reduced when you take damage, either in combat or from some other violent action or event.
-
-Hit points measure stamina and deplete as you tire from physical exertion. If you reach zero hitpoints you pass out.
-
-Going below zero hit points is usually very bad, but exactly what it means for your character depends on your class. For monsters and NPCs it is up to the DM; for most non combatant NPCs, it means death.
-
-Hit points can be recovered by resting. A short rest to simply catch your breath (anything from a few minutes to a couple of hours) recovers half your hit points, rounded down. A long rest, meaning a good night's sleep, or the equivalent, recovers you to your maximum. And there are of course magical means to recover health.
-
-## Combat
-
-In combat actions are tracked more carefully. Each round the DM will describe what threats are facing you, and ask each player to choose one brief action to take in response. If your action triggers a move (which it commonly will) resolve that move as normal.
